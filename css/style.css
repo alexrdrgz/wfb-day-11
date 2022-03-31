@@ -25,10 +25,13 @@ header{
 }
 
 main{
-    height: 110vh;
+    height: 150vh;
     background-color: lightblue;
     width: 100%;
     float: left;
+
+    background: rgb(63,94,251);
+    background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(95,90,227,1) 31%, rgba(123,86,205,1) 32%, rgba(163,81,175,1) 39%, rgba(218,74,133,1) 54%, rgba(169,80,171,1) 56%, rgba(193,77,152,1) 62%, rgba(182,78,161,1) 63%, rgba(252,70,107,1) 100%);
 }
 
 footer{
